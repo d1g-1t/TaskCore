@@ -12,8 +12,8 @@
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/d1g-1t/taski-docker.git taskcore
-cd taskcore
+git clone https://github.com/d1g-1t/TaskCore.git taskcore
+cd TaskCore
 make setup
 ```
 
